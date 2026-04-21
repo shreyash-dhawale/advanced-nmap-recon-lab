@@ -1,0 +1,4 @@
+# Nmap 7.98 scan initiated Mon Apr 20 12:48:09 2026 as: /usr/lib/nmap/nmap -sS -sV -O -sC -oA advanced_recon 192.168.1.10
+Host: 192.168.1.10 ()	Status: Up
+Host: 192.168.1.10 ()	Ports: 3306/open/tcp//mysql//MySQL 8.0.34/	Ignored State: filtered (999)	Seq Index: 252	IP ID Seq: Incremental
+# Nmap done at Mon Apr 20 12:48:26 2026 -- 1 IP address (1 host up) scanned in 17.53 seconds
